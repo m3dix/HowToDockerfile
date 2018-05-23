@@ -1,0 +1,25 @@
+{
+  "name": "howtodockerfile",
+  "version": "1.0.0",
+  "description": "HowTo about dockerfile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3dix/HowToDockerfile.git"
+  },
+  "keywords": [
+    "dockerfile"
+  ],
+  "author": "D.Hommen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m3dix/HowToDockerfile/issues"
+  },
+  "homepage": "https://github.com/m3dix/HowToDockerfile#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
