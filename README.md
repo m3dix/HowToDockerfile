@@ -1,5 +1,5 @@
 # HowToDockerfile
-## Prerequesitions
+## Prerequisites
 Please make sure that nodejs is install on your system. This can be done by running the following command
 ```node --version```
 ## SetUp
